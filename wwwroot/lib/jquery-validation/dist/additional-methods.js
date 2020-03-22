@@ -15,7 +15,6 @@
 		factory( jQuery );
 	}
 }(function( $ ) {
-
 ( function() {
 
 	function stripHtml( value ) {

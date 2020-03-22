@@ -12,5 +12,6 @@ namespace ASEME_Dashboard_App.Data
             : base(options)
         {
         }
+
     }
 }
